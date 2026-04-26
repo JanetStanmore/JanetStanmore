@@ -30,3 +30,10 @@
 - `npm run start`
 - `npm run android`
 - `npm run ios`
+
+
+## Codespaces-first quick commands
+- `gh auth login`
+- `gh repo create instant-music-lab --public --source=. --remote=origin --push`
+- `cp .env.example .env.local`
+- `npm install && npm run dev`

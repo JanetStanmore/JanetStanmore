@@ -75,3 +75,11 @@ It explains how to combine this app + LMMS + Ardour + free plugins for a complet
 
 ## Run + GitHub upload guide
 See `docs/GITHUB_UPLOAD_GUIDE.md` for exact commands to run web/mobile and push to a new GitHub repo.
+
+
+## Codespaces-first (recommended for you)
+If you want **no local setup**, follow `docs/CODESPACES_FIRST.md` to:
+1) push to GitHub first,
+2) open in Codespaces,
+3) set env vars,
+4) run the app.
