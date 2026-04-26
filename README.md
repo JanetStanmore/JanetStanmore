@@ -67,3 +67,11 @@ A mobile companion app is included in `mobile/` (Expo React Native) for quick dr
 
 ## New GitHub repository guidance
 A step-by-step guide for creating separate GitHub repos is in `scripts/create-new-github-repo.md`.
+
+
+## Need “free FL + Cakewalk strength”?
+Use the recommended legal stack in `docs/FREE_DAW_STACK.md`.
+It explains how to combine this app + LMMS + Ardour + free plugins for a complete production pipeline.
+
+## Run + GitHub upload guide
+See `docs/GITHUB_UPLOAD_GUIDE.md` for exact commands to run web/mobile and push to a new GitHub repo.
